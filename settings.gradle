@@ -1,3 +1,4 @@
 rootProject.name = 'boot-hystrix-sample'
 
 include 'service'
+include 'client'
