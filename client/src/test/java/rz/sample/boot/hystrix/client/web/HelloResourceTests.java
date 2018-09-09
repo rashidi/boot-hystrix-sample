@@ -1,4 +1,4 @@
-package rz.sample.boot.hystrix.client.web.Hello;
+package rz.sample.boot.hystrix.client.web;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
