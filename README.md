@@ -1,4 +1,4 @@
-# Hystrix With Spring Boot [![Build Status](https://travis-ci.org/rashidi/boot-hystrix-sample.svg?branch=master)](https://travis-ci.org/rashidi/boot-hystrix-sample)
+# Hystrix With Spring Boot [![Build Status](https://travis-ci.org/rashidi/boot-hystrix-sample.svg?branch=master)](https://travis-ci.org/rashidi/boot-hystrix-sample) [![Dependabot Status](https://api.dependabot.com/badges/status?host=github&repo=rashidi/boot-hystrix-sample)](https://dependabot.com)
 Sample application that demonstrates usage of Hystrix on top of Spring Boot.
 
 There are two applications bundled in this sample; [service][1] and [client][2].
